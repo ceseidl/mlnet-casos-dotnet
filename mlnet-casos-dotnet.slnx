@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MlCasos.Api/MlCasos.Api.csproj" />
+    <Project Path="src/MlCasos.Modelos/MlCasos.Modelos.csproj" />
+    <Project Path="src/MlCasos.Treino/MlCasos.Treino.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,97 @@
+Categoria	Texto
+Acesso	Não consigo entrar no sistema, a senha foi recusada
+Acesso	Esqueci minha senha e o e-mail de redefinição não chega
+Acesso	Minha conta foi bloqueada depois de três tentativas de login
+Acesso	O código de verificação em duas etapas não chega no celular
+Acesso	Preciso de permissão de acesso ao módulo de relatórios
+Acesso	Troquei de e-mail e agora não consigo fazer login
+Acesso	O login retorna usuário ou senha inválidos
+Acesso	Quero redefinir a senha da minha conta
+Acesso	Meu usuário foi desativado e preciso voltar a acessar
+Acesso	Não recebo o link para criar uma nova senha
+Acesso	A autenticação falha toda vez que tento entrar
+Acesso	Preciso liberar o acesso de um novo colaborador
+Cobranca	Fui cobrado duas vezes na fatura deste mês
+Cobranca	O valor da mensalidade veio maior do que o contratado
+Cobranca	Quero a segunda via do boleto vencido
+Cobranca	Não reconheço uma cobrança no meu cartão
+Cobranca	Preciso do estorno de um pagamento duplicado
+Cobranca	A nota fiscal veio com o valor errado
+Cobranca	Cancelei o plano mas continuo recebendo cobrança
+Cobranca	Quero trocar a forma de pagamento para cartão
+Cobranca	O desconto prometido não apareceu na fatura
+Cobranca	Preciso de reembolso do valor cobrado a mais
+Cobranca	O boleto não foi compensado e já paguei
+Cobranca	Gostaria de parcelar a fatura em atraso
+Entrega	Meu pedido não chegou e o prazo já passou
+Entrega	O rastreamento da encomenda não atualiza há dias
+Entrega	Recebi o produto errado na entrega
+Entrega	A caixa chegou danificada e o item quebrado
+Entrega	Quero alterar o endereço de entrega do pedido
+Entrega	O entregador não apareceu na data combinada
+Entrega	Faltou um item no pacote que recebi
+Entrega	O pedido consta como entregue, mas não recebi
+Entrega	Preciso reagendar a entrega para a próxima semana
+Entrega	A transportadora devolveu meu pedido ao remetente
+Entrega	Qual é a previsão de entrega da minha compra
+Entrega	O pacote ficou parado no centro de distribuição
+Tecnico	O aplicativo fecha sozinho quando abro a tela inicial
+Tecnico	A página demora muito para carregar e dá erro de tempo esgotado
+Tecnico	O sistema apresenta erro 500 ao salvar o formulário
+Tecnico	A sincronização dos dados parou de funcionar
+Tecnico	O botão de exportar relatório não responde
+Tecnico	Aparece uma mensagem de falha ao enviar o arquivo
+Tecnico	A integração com a API retorna erro de timeout
+Tecnico	O app trava depois da última atualização
+Tecnico	Os dados não aparecem na tela mesmo recarregando
+Tecnico	A tela fica em branco ao abrir o painel
+Tecnico	Recebo erro inesperado ao anexar um documento
+Tecnico	O sistema está muito lento durante o horário comercial
+Acesso	Minha senha expirou e o sistema não deixa eu trocar
+Acesso	Não consigo fazer login com a minha conta corporativa
+Acesso	O acesso ao painel foi negado para o meu usuário
+Acesso	Recebi aviso de conta bloqueada por segurança
+Acesso	Não lembro a senha e preciso entrar com urgência
+Acesso	O token de autenticação não funciona no meu aparelho
+Acesso	Quero cadastrar um novo usuário com acesso de leitura
+Acesso	Meu perfil perdeu a permissão de editar cadastros
+Acesso	Não consigo logar depois de trocar a senha
+Acesso	O e-mail de confirmação da conta nunca chegou
+Acesso	Preciso recuperar o acesso à minha conta
+Acesso	Tentei entrar várias vezes e a senha continua inválida
+Cobranca	A fatura veio com um valor diferente do combinado
+Cobranca	Fui cobrado por um serviço que cancelei
+Cobranca	Preciso da segunda via da nota fiscal
+Cobranca	O pagamento no cartão foi cobrado em duplicidade
+Cobranca	Quero contestar uma cobrança na minha fatura
+Cobranca	O boleto venceu e preciso gerar outro para pagar
+Cobranca	Solicito o estorno da cobrança indevida
+Cobranca	O valor do plano aumentou sem aviso na fatura
+Cobranca	Paguei a fatura mas continua constando em aberto
+Cobranca	Quero mudar a data de vencimento do boleto
+Cobranca	Cobraram juros na fatura que paguei em dia
+Cobranca	Preciso de reembolso porque paguei duas vezes
+Entrega	O pedido está atrasado e ainda não recebi nada
+Entrega	O código de rastreamento não mostra nenhuma movimentação
+Entrega	Chegou um produto diferente do que eu comprei
+Entrega	O produto chegou quebrado dentro da embalagem
+Entrega	Preciso trocar o endereço para onde o pedido vai
+Entrega	A transportadora não tentou entregar na data prevista
+Entrega	Veio faltando uma peça na encomenda
+Entrega	O pedido aparece como entregue e eu não recebi
+Entrega	Quero remarcar a entrega para outro dia
+Entrega	O pedido voltou para o remetente sem eu saber
+Entrega	Quando o meu pedido vai chegar na minha casa
+Entrega	A encomenda está parada há uma semana no rastreio
+Tecnico	O aplicativo trava ao abrir a tela de pedidos
+Tecnico	Aparece erro de timeout ao carregar a lista de clientes
+Tecnico	Recebo erro 500 quando tento salvar o cadastro
+Tecnico	A sincronização falha e os dados ficam desatualizados
+Tecnico	O botão de salvar não responde ao clicar
+Tecnico	Ocorre uma falha ao fazer upload do arquivo
+Tecnico	A API de integração está retornando erro
+Tecnico	O app fecha sozinho depois da atualização
+Tecnico	As informações não carregam na tela do painel
+Tecnico	A tela fica em branco depois de abrir o relatório
+Tecnico	O sistema mostra um erro inesperado ao anexar a planilha
+Tecnico	O sistema está lento e as páginas não abrem
