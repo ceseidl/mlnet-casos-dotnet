@@ -48,7 +48,7 @@ curl -X POST http://localhost:5088/vendas/anomalias \
 Saída esperada:
 
 ```
-{"categoria":"Cobranca","confianca":0.99}
+{"categoria":"Cobranca","confianca":0.99,"triagem":false}
 [{"indice":8,"valor":240,"pValor":1E-08},{"indice":14,"valor":20,"pValor":1E-08}]
 ```
 

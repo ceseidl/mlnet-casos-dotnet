@@ -29,10 +29,12 @@ app.MapPost("/tickets/classificar", (
     var r = pool.Predict("tickets",
         new TicketEntrada { Texto = req.Texto });
 
+    var confianca = r.Score.Max();
     return Results.Ok(new
     {
         categoria = r.Categoria,
-        confianca = Math.Round(r.Score.Max(), 2)
+        confianca = Math.Round(confianca, 2),
+        triagem = confianca < 0.6f
     });
 });
 
